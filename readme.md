@@ -1,55 +1,34 @@
 # **Project 01: 2025 Landing page**
-<br>
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
-___
 <br>
 <br>
 
 ## **Time taken :** ✍🏼
-___
+
 >### It took me about 2 Hours to complete this project.
-<br>
-<br>
-<br>
+
 
 ## **Live Demo**  💻 
-___
->### _[**Live Link**](www.heyrintu.me)_
-<br>
-<br>
 
-<br>
+>### _[**Live Link**](www.heyrintu.me)_
 
 
 ## **Preview**🔎
----
-<br>
+
 
 ![screenshot](./Screenshot.png)
 
-<br>
-<br>
-<br>
+
 
 ## **Tools** 🪛
----
-<br>
 
 >Vscode , HTML , CSS
 
-<br>
-<br>
-
 ## **FeedBack**🥷🏼
-___
-<br>
 
 > If you have any feedBack , ping me at my socials. rintumondal1998@gmail.com
-<br>
-<br>
 
-<br>
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
