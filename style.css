@@ -1,0 +1,160 @@
+* {
+    font-family: Orbitron;
+    margin:0px;
+    padding:0px;
+    
+
+
+}
+body {
+    margin: 0;
+}
+ul{
+    text-align:center;
+    margin: 20px 20px;
+}
+li {
+    position: relative;
+    top: 75px;
+    right: 115px;
+    display: inline;
+    list-style-type: none;
+    padding: 40px;
+    font-size: 22px;
+    font-weight:550;
+
+    
+}
+li:first-child {
+    font-weight: 900;
+    font-size:25px;
+    padding: 2px ; 
+    /* text-decoration-line: underline;
+    text-decoration-thickness: 3px ; */
+    border-bottom: 3px solid black;
+    
+    
+}
+.navbar-container {
+    position: relative;
+}
+
+
+/* LOGO */
+img[alt~="brand-logo"] {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    width: 155px;
+}
+/* search bar  */
+.nav-button {
+    position: absolute;
+    font-family: Poppins ;
+    top: 75px;
+    right: 200px;
+    border-radius: 15px;
+    font-size: 24px;
+    padding: 5px 53px 4px 50px;
+    background-color: #ffffff;
+}
+
+.search-icon svg {
+    
+    position: absolute;
+    top: 85px;
+    right: 400px;
+    height: 30px;
+}
+/* person image  */
+img[alt~="person-hero-iamge"] {
+    
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    width: 25%;
+}
+/* square-pattern */
+img[alt~="square-pattern"] {
+    
+    position: relative;
+    top: 425px;
+    left: 245px;
+    
+}
+/* start-pattern */
+img[alt~="start-pattern"] {
+    
+    position: absolute;
+    top: 255px;
+    right: 210px;
+    
+}
+img[alt~="globe-pattern"] {
+
+position: absolute;
+top: 200px;
+left: 47%;
+width: 75px;
+
+}
+
+.hero-heading {
+    position: absolute;
+    top: 350px;
+    right: 200px;
+    font-size: 70px;
+}
+.hero-description {
+    display:inline-block;
+    position:absolute;
+    right: 280px;
+    text-align:center;
+    width: 38%;
+    font-family: Poppins ;
+}
+
+.icons {
+    
+    display: inline;
+    position: absolute;
+    bottom: 15px;
+    right: 26.5%;
+}
+.icons span {
+    padding: 0px 10px;
+}
+.contact-heading {
+    position: absolute;
+    bottom: 70px;
+    right: 30.5%;
+    font-size: 21px ;
+    font-family: Poppins ;
+    font-weight: 500;
+    color: #5a5a5a;
+    
+}
+.button-email {
+    
+    position: absolute;
+    font-size: 21px;
+    font-weight:500;
+    bottom: 25%;
+    right: 33%;
+    padding: 3px 30px 2px;
+    border-radius: 8px;
+    color: #5a5a5a;
+    background-color: #ffffff;
+}
+
+.button-join {
+    position: absolute;
+    bottom: 25%;
+    right: 24.5%;
+    font-size: 23px;
+    background-color: black;
+    color:#ffffff;
+    border-radius: 8px;
+    padding:2px 7px;
+
+}
