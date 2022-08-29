@@ -2,34 +2,34 @@
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
-<br>
 
 ## **Time taken :** ✍🏼
 
 >### It took me about 2 Hours to complete this project.
-
+<br>
 
 ## **Live Demo**  💻 
 
 >### _[**Live Link**](www.heyrintu.me)_
-
+<br>
 
 ## **Preview**🔎
-
+<br>
 
 ![screenshot](./Screenshot.png)
-
+<br>
 
 
 ## **Tools** 🪛
-
 >Vscode , HTML , CSS
+
+<br>
 
 ## **FeedBack**🥷🏼
 
+<br>
+
 > If you have any feedBack , ping me at my socials. rintumondal1998@gmail.com
-
-
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
